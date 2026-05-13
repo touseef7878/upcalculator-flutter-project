@@ -71,25 +71,7 @@ Math GOAT is a powerful, offline-first scientific calculator that goes beyond ba
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Standard | Scientific | Calculus |
-|----------|-----------|----------|
-| ![Standard](docs/screenshots/standard.png) | ![Scientific](docs/screenshots/scientific.png) | ![Calculus](docs/screenshots/calculus.png) |
-
-| Matrix | Numerical | Info |
-|--------|-----------|------|
-| ![Matrix](docs/screenshots/matrix.png) | ![Numerical](docs/screenshots/numerical.png) | ![Info](docs/screenshots/info.png) |
-
-</div>
-
-> **Note**: Screenshots coming soon! The app is fully functional.
-
----
-
-## 🚀 Installation
+## � Installation
 
 ### Prerequisites
 - Flutter SDK 3.x or higher
@@ -101,8 +83,8 @@ Math GOAT is a powerful, offline-first scientific calculator that goes beyond ba
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/math-goat-calculator.git
-   cd math-goat-calculator
+   git clone https://github.com/touseef7878/upcalculator-flutter-project.git
+   cd upcalculator-flutter-project
    ```
 
 2. **Install dependencies**
@@ -129,40 +111,13 @@ Math GOAT is a powerful, offline-first scientific calculator that goes beyond ba
 
 ## 💻 Usage
 
-### Basic Operations
-```
-2 + 3 × 4        → 14
-(2 + 3) × 4      → 20
-2^10             → 1024
-```
-
-### Scientific Functions
-```
-sin(30)          → 0.5 (DEG mode)
-cos(60)          → 0.5 (DEG mode)
-log(100)         → 2
-sqrt(16)         → 4
-5!               → 120
-```
-
-### Complex Expressions
-```
-sin(30) + cos(60)              → 1
-sqrt(16) + 2^3                 → 12
-(sin(45))^2 + (cos(45))^2      → 1
-exp(ln(5))                     → 5
-```
-
-### Calculus
-- **Derivative**: Enter `x^2`, evaluate at `x=3` → Result: `6`
-- **Integral**: Enter `x^2`, bounds `0` to `2` → Result: `2.667`
-
-### Tips & Tricks
-- 🔄 **Auto-Close**: Press `=` to automatically close all open parentheses
-- ⌫ **Smart Backspace**: Removes entire function names (e.g., "sin(" not just "(")
-- 📋 **Copy Results**: Long-press any result to copy to clipboard
-- 🔄 **DEG/RAD**: Toggle between degrees and radians for trig functions
-- 🔀 **INV Mode**: Toggle to access inverse functions (asin, acos, atan)
+### Key Features
+- **Auto-Close Brackets**: Press `=` to automatically close all open parentheses
+- **Smart Backspace**: Removes entire function names intelligently
+- **Copy Results**: Long-press any result to copy to clipboard
+- **DEG/RAD Toggle**: Switch between degrees and radians for trigonometric functions
+- **INV Mode**: Access inverse functions (asin, acos, atan)
+- **Live Evaluation**: See results update in real-time as you type
 
 ---
 
@@ -292,10 +247,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Touseef** — The mind behind Math GOAT 🐐
+**Touseef Ur Rehman** — Computer Science Student
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@touseef7878](https://github.com/touseef7878)
+- LinkedIn: [Touseef Ur Rehman](https://www.linkedin.com/in/touseef-ur-rehman-6b2888372)
 
 ---
 
@@ -317,21 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] iOS support
-- [ ] Web version
-- [ ] Graphing calculator mode
-- [ ] Unit converter
-- [ ] Custom themes
-- [ ] Expression sharing
-- [ ] Calculation history export
-
----
-
 ## 📞 Support
 
-Found a bug or have a feature request? Please [open an issue](https://github.com/yourusername/math-goat-calculator/issues).
+Found a bug or have a feature request? Please [open an issue](https://github.com/touseef7878/upcalculator-flutter-project/issues).
 
 ---
 
